@@ -2,5 +2,5 @@
 
 require:
     - play 1.2.5
-    - org.seleniumhq.selenium -> selenium-support 2.24.1
-    - org.seleniumhq.selenium -> selenium-firefox-driver 2.24.1
+    - org.seleniumhq.selenium -> selenium-support 2.25.0
+    - org.seleniumhq.selenium -> selenium-firefox-driver 2.25.0
