@@ -1,0 +1,21 @@
+# Development
+/eclipse/
+/.classpath
+/.project
+/.eclipse
+/.settings/
+/.idea/
+
+# Play
+/data/
+/server.pid
+/cobertura.ser
+/logs/
+/precompiled/
+/tmp/
+/test-result/
+/test-output/
+/modules/
+/lib/
+.sass-cache/
+*.pyc
